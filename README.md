@@ -27,23 +27,6 @@
   </table>
 </div>
 
-## 🛠️ Mi Stack Tecnológico
-
-### Lenguajes de Programación
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,python" />
-</div>
-
-### Desarrollo Web
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</div>
-
-### Bases de Datos y Herramientas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</div>
-
 ## 🎯 Proyectos Destacados
 
 <div align="center">
@@ -65,6 +48,25 @@
       </td>
     </tr>
   </table>
+
+## 🛠️ Mi Stack Tecnológico
+
+### Lenguajes de Programación
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python" />
+</div>
+
+### Desarrollo Web
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</div>
+
+### Bases de Datos y Herramientas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</div>
+
+
   
   <div align="center">
     <img src="https://img.shields.io/badge/Status-En_Desarrollo-yellow?style=for-the-badge" />
