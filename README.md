@@ -18,7 +18,7 @@
       </td>
       <td>
         <div align="center">
-          <img src="https://img.shields.io/badge/Características-Autodidacta|Responsable|Trabajo_en_equipo-purple?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Características-Autodidacta|Trabajo_en_equipo-purple?style=for-the-badge" />
           <br/>
           <img src="https://img.shields.io/badge/Meta-Vivir_de_mis_proyectos-orange?style=for-the-badge&logo=rocket&logoColor=white" />
         </div>
