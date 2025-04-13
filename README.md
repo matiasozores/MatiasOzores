@@ -42,36 +42,6 @@ const matias = {
   </tr>
 </table>
 
-## 📈 Gráfico de Actividad
-
-```mermaid
-graph TD
-    A[Desarrollo Web] --> B[Frontend]
-    A --> C[Backend]
-    B --> D[React]
-    B --> E[HTML/CSS]
-    C --> F[Node.js]
-    C --> G[Express]
-```
-
-## 🎮 Terminal Simulada
-
-```bash
-$ whoami
-MatiasOzores
-
-$ cat about.txt
-Técnico en Computación especializado en desarrollo web.
-Apasionado por crear soluciones innovadoras y eficientes.
-
-$ ls skills/
-Frontend/  Backend/  DevOps/  Database/
-
-$ cd projects/
-$ ls
-campus-virtual-programacion/
-```
-
 ## 📫 Conectemos
 
 <div align="center">
@@ -83,15 +53,4 @@ campus-virtual-programacion/
   </a>
 </div>
 
-## 🌟 Frase del Día
-
-> "La tecnología es mejor cuando une a las personas" - Matt Mullenweg
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatiasOzores&label=Profile%20views&color=0e75b6&style=flat" alt="MatiasOzores" />
-</div>
-
-⭐️ De [MatiasOzores](https://github.com/MatiasOzores)
 
