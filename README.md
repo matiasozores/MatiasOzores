@@ -49,6 +49,8 @@
     </tr>
   </table>
 
+ 
+
 ## 🛠️ Mi Stack Tecnológico
 
 ### Lenguajes de Programación
@@ -68,10 +70,7 @@
 
 
   
-  <div align="center">
-    <img src="https://img.shields.io/badge/Status-En_Desarrollo-yellow?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Versión-1.0.0-blue?style=for-the-badge" />
-  </div>
+
 </div>
 
 ## 📫 Conectemos
