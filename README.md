@@ -29,8 +29,19 @@
 
 ## 🛠️ Mi Stack Tecnológico
 
+### Lenguajes de Programación
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode,c,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python" />
+</div>
+
+### Desarrollo Web
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</div>
+
+### Herramientas y Control de Versiones
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </div>
 
 ## 🎯 Proyectos Destacados
@@ -56,5 +67,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-
