@@ -6,15 +6,26 @@
 
 ## 🌟 Sobre Mí
 
-```javascript
-const matias = {
-  rol: "Técnico en Computación",
-  especialidad: "Desarrollo Web",
-  tecnologias: ["JavaScript", "React", "Node.js", "HTML5", "CSS3"],
-  caracteristicas: ["Analítico", "Detallista", "Innovador", "Autodidacta"],
-  meta: "Crear soluciones tecnológicas que impacten positivamente"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Rol-Técnico_en_Computación-blue?style=for-the-badge&logo=terminal&logoColor=white" />
+          <br/>
+          <img src="https://img.shields.io/badge/Especialidad-Desarrollo_Web-green?style=for-the-badge&logo=code&logoColor=white" />
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Características-Analítico|Detallista|Innovador-purple?style=for-the-badge" />
+          <br/>
+          <img src="https://img.shields.io/badge/Meta-Crear_soluciones_tecnológicas-orange?style=for-the-badge&logo=rocket&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ Mi Stack Tecnológico
 
