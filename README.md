@@ -46,16 +46,31 @@
 
 ## 🎯 Proyectos Destacados
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://matiasozores.github.io/campus-virtual-programacion/">
-        <img src="https://img.shields.io/badge/Campus_Virtual-Programación-blue?style=for-the-badge" />
-      </a>
-    </td>
-    <td>Plataforma educativa para el aprendizaje de programación</td>
-  </tr>
-</table>
+<div align="center">
+  <h3>✨ Campus Virtual Programación ✨</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://matiasozores.github.io/campus-virtual-programacion/">
+          <img src="https://img.shields.io/badge/🌐_Visitar_Sitio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <div align="left">
+          <strong>Descripción:</strong> Plataforma educativa para el aprendizaje de programación<br/>
+          <strong>Tecnologías:</strong> React, JavaScript, CSS, HTML<br/>
+          <strong>Características:</strong> Sistema de autenticación, ejercicios interactivos, material educativo
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Status-En_Desarrollo-yellow?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Versión-1.0.0-blue?style=for-the-badge" />
+  </div>
+</div>
 
 ## 📫 Conectemos
 
