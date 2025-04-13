@@ -36,7 +36,7 @@
 
 ### Desarrollo Web
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </div>
 
 ### Bases de Datos y Herramientas
