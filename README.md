@@ -1,7 +1,7 @@
 # Matías Ozores | Técnico en Computación
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Técnico+en+Computación;Desarrollador+de+Software" alt="Typing SVG" />
+ <img src="TECNICO_COMPUTACION.jpg" alt="Foto de perfil" width="200" style="border-radius: 50%;" />
 </div>
 
 ## 🌟 Sobre Mí
