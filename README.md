@@ -22,13 +22,6 @@ const matias = {
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind,git,github,vscode" />
 </div>
 
-## �� Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiasOzores&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasOzores&theme=radical" />
-</div>
-
 ## 🎯 Proyectos Destacados
 
 <table>
