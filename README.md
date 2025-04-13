@@ -13,7 +13,7 @@
         <div align="center">
           <img src="https://img.shields.io/badge/Rol-Técnico_en_Computación-blue?style=for-the-badge&logo=terminal&logoColor=white" />
           <br/>
-          <img src="https://img.shields.io/badge/Especialidad-Desarrollo_Web-green?style=for-the-badge&logo=code&logoColor=white" />
+          <img src="https://img.shields.io/badge/Especialidad-Desarrollo_de_Software-green?style=for-the-badge&logo=code&logoColor=white" />
         </div>
       </td>
       <td>
