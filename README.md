@@ -30,7 +30,7 @@
 ## 🛠️ Mi Stack Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode,c++,java" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode,c,java" />
 </div>
 
 ## 🎯 Proyectos Destacados
