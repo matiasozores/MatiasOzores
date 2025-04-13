@@ -39,9 +39,9 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </div>
 
-### Herramientas y Control de Versiones
+### Bases de Datos y Herramientas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </div>
 
 ## 🎯 Proyectos Destacados
