@@ -29,14 +29,13 @@
     <tr>
       <td align="center" width="200">
         <a href="https://matiasozores.github.io/campus-virtual-programacion/">
-          <img src="https://img.shields.io/badge/��_Visitar_Sitio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+          <img src="https://img.shields.io/badge/Visitar_Sitio_&logo=google-chrome&logoColor=white" />
         </a>
       </td>
       <td>
         <div align="left">
           <strong>Descripción:</strong> Plataforma educativa para el aprendizaje de programación<br/>
           <strong>Tecnologías:</strong> React, JavaScript, CSS, HTML<br/>
-          <strong>Características:</strong> Sistema de autenticación, ejercicios interactivos, material educativo
         </div>
       </td>
     </tr>
@@ -48,14 +47,13 @@
     <tr>
       <td align="center" width="200">
         <a href="https://matiasozores.github.io/portfolio-web/">
-          <img src="https://img.shields.io/badge/🌐_Visitar_Sitio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+          <img src="https://img.shields.io/badge/Visitar_Sitio_&logo=google-chrome&logoColor=white" />
         </a>
       </td>
       <td>
         <div align="left">
           <strong>Descripción:</strong> Portfolio personal con diseño moderno y responsive<br/>
           <strong>Tecnologías:</strong> React, JavaScript, CSS, HTML<br/>
-          <strong>Características:</strong> Diseño minimalista, animaciones suaves, sección de proyectos con slider de imágenes, sección de tecnologías categorizadas
         </div>
       </td>
     </tr>
