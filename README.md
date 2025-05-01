@@ -1,10 +1,10 @@
 # Matías Ozores
 
 <div align="center">
- <img src="TECNICO_COMPUTACION.jpg" alt="Foto de perfil" width="1400" style="border-radius: 50%;" />
+  <img src="TECNICO_COMPUTACION.jpg" alt="Foto de perfil" width="1400" style="border-radius: 50%;" />
 </div>
 
-## 🌟 Sobre Mí
+## Sobre Mí
 
 <div align="center">
   <table>
@@ -20,16 +20,18 @@
   </table>
 </div>
 
-## 🎯 Proyectos Destacados
+## Proyectos Destacados
 
 <div align="center">
-  <h3>✨ Campus Virtual Programación ✨</h3>
+  <h3>Campus Virtual Programación</h3>
   
   <table>
     <tr>
       <td align="center" width="200">
         <a href="https://matiasozores.github.io/campus-virtual-programacion/">
-          <img src="https://img.shields.io/badge/Visitar_Sitio_&logo=google-chrome&logoColor=white" />
+          <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; text-align: center;">
+            Visitar Sitio
+          </button>
         </a>
       </td>
       <td>
@@ -41,13 +43,15 @@
     </tr>
   </table>
 
-  <h3>✨ Portfolio Web ✨</h3>
+  <h3>Portfolio Web</h3>
   
   <table>
     <tr>
       <td align="center" width="200">
         <a href="https://matiasozores.github.io/portfolio-web/">
-          <img src="https://img.shields.io/badge/Visitar_Sitio_&logo=google-chrome&logoColor=white" />
+          <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; text-align: center;">
+            Visitar Sitio
+          </button>
         </a>
       </td>
       <td>
@@ -60,7 +64,7 @@
   </table>
 </div>
 
-## 🛠️ Mi Stack Tecnológico
+## Mi Stack Tecnológico
 
 ### Lenguajes de Programación
 <div align="center">
@@ -77,7 +81,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </div>
 
-## 📫 Conectemos
+## Conectemos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mat%C3%ADas-ozores-57795030a/">
