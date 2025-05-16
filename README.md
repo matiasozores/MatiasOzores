@@ -1,7 +1,7 @@
 # Matías Ozores
 
 <div align="center">
-  <img src="TECNICO_COMPUTACION.jpg" alt="Foto de perfil" width="1400" style="border-radius: 50%;" /> 
+  <img src="Tecnico.jpg" alt="Foto de perfil" width="1400" style="border-radius: 50%;" /> 
 </div>
 
 ## Sobre Mí
