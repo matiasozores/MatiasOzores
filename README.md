@@ -11,9 +11,9 @@
     <tr>
       <td>
         <div align="center">
-          <img src="https://img.shields.io/badge/Rol-Técnico_en_Computación-252D51?style=for-the-badge&logo=terminal&logoColor=white" />
+          <img src="https://img.shields.io/badge/Rol-Técnico_en_Computación-D4FEFF?style=for-the-badge&logo=terminal&logoColor=white" />
           <br/>
-          <img src="https://img.shields.io/badge/Especialidad-Desarrollo_de_Software-252D51?style=for-the-badge&logo=code&logoColor=white" />
+          <img src="https://img.shields.io/badge/Especialidad-Desarrollo_de_Software-D4FEFF?style=for-the-badge&logo=code&logoColor=white" />
         </div>
       </td>
     </tr>
