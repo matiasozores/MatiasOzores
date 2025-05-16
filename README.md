@@ -23,7 +23,7 @@
 ## Proyectos Destacados
 
 <div align="center">
-  <h3>Campus Virtual Programación</h3>
+  <h3>Campus Virtual Programación (BETA)</h3>
   
   <table>
     <tr>
